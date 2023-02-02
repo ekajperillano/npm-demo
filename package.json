@@ -9,7 +9,7 @@
   "author": "Jake Perillano",
   "license": "ISC",
   "dependencies": {
-    "mongoose": "^5.9.7",
+    "mongoose": "^5.13.15",
     "underscore": "^1.10.2"
   }
 }
